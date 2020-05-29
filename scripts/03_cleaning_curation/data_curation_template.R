@@ -15,7 +15,6 @@ library(lubridate)
 library(raster)
 library(rgdal)
 
-
 ## BAD BAD BAD BAD BAD
 # setwd("my/filepath/that/isnt/your/filepath.csv")
 
@@ -37,14 +36,13 @@ source(here(Sys.glob("scripts/*_data_selection/hello_world.R")))
 
 # Tools>Global Options>Code>Display>Show Margin> 60 or 80 are common
 
-
 ## 2. Data curation #############
-
 ## 3. Data QA/QC ##############
 
 ## 4. Write out derived data ###########
 
 # Common practice stemming from when RStudio and other IDE's weren't as popular:
+
 ####################################################
 ############# THIS IS A HEADER #####################
 ####################################################
