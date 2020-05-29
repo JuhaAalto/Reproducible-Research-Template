@@ -15,7 +15,7 @@ library(lubridate)
 library(raster)
 library(rgdal)
 
-## BAD BAD BAD BAD BAD
+## BAD BAD BAD BAD BAD some changes
 # setwd("my/filepath/that/isnt/your/filepath.csv")
 
 ## Read in data
